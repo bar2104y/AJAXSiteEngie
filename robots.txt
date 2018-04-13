@@ -1,0 +1,9 @@
+User-agent: Yandex
+Disallow: /Files/Docs
+Allow: /
+
+User-agent: *
+Disallow: /Files/Docs
+Allow: /
+
+sitemap: http://domain/sitemap.xml
