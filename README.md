@@ -9,34 +9,34 @@
 
 ## Description of folders and files
 + #### Files
-  + #### Docs
-    * * Folder with documents (.txt, .docx, etc.) *
-  + #### Images
-    * * Folder with images (favicon.ico, logo.svg) *
+  + #### Docs
+    * *Folder with documents(.txt, .docx итд)*
+  + #### Images
+    * *Folder with images(favicon.ico, logo.svg)*
 + #### Pages
-  * * Folder with site pages *
-  + #### Main
-    * * Basic pages (Home, Contacts, FAQ) *
-    
-    * contacts.php
-    * faq.php
-    * main.php
+  * *Folder with site pages*
+  + #### Main
+    * *Basic pages (Home, Contacts, FAQ)*
+    
+    * contacts.php
+    * faq.php
+    * main.php
 + #### Scripts
-  + #### JS
-    * * JavaScript Scripts *
-    
-    * switch_page.js (Switching pages on the client side)
-  + #### PHP
-    * * PHP scripts *
-    
-    * load_page.php (Server request to ajax)
+  + #### JS
+    * *JavaScript Scripts*
+    
+    * switch_page.js (Switching pages on the client side)
+  + #### PHP
+    * *PHP скрипты*
+    
+    * load_page.php (Server request to ajax)
 + #### Style
-  * * Site styles *
-  
-  * main.css (Basic styles)
+  * *Стили сайта*
+  
+  * main.css (Basic styles)
 
 * .htaccess (Server settings)
-* index.php
+* index.php 
 * robots.txt (Instructions for search robots)
 
 
