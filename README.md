@@ -1,5 +1,12 @@
 # AJAXSiteEngie
 
+## Targets:
++ Switch site pages with ajax
++ Optimization for indexing by search robots ([Yandex] (https://yandex.com), [Google] (https://google.com))
++ Prioritization of loading resources
++ Caching pages
+
+
 ## Цели:
 
 + Переход между страницами сайта при помощи ajax
